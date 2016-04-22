@@ -1,0 +1,9 @@
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\bin\Debug\GeneticTicTacToe.exe.config
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\bin\Debug\GeneticTicTacToe.exe
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\bin\Debug\GeneticTicTacToe.pdb
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\obj\Debug\GeneticTicTacToe.csprojResolveAssemblyReference.cache
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\obj\Debug\GeneticTicTacToe.TicTacToeBoard.resources
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\obj\Debug\GeneticTicTacToe.Properties.Resources.resources
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\obj\Debug\GeneticTicTacToe.csproj.GenerateResource.Cache
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\obj\Debug\GeneticTicTacToe.exe
+c:\users\phoenix\documents\visual studio 2013\Projects\GeneticTicTacToe\GeneticTicTacToe\obj\Debug\GeneticTicTacToe.pdb
